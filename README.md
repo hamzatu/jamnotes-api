@@ -1,2 +1,3 @@
 # jamnotes-api
-# jamnotes-api
+
+## This is the Jamjara Notes API 
